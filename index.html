@@ -24,16 +24,16 @@
     <main class="profile">
       <header class="profile__header">
         <div class="profile__header-photo">
-          <img src="assets/img/profile.jpeg" alt="" />
+          <img src="assets/img/profile.jpeg" id="profile.photo" alt="Foto de Perfil" />
         </div>
         <h1 class="profile__header-title">
-          Olá, <br />eu sou o Jean F R Almeida
+          Olá, <br />eu sou o <span id="profile.name">Carregando...</span>
         </h1>
         <div class="profile__header-info">
-          <p class="job">FrontEnd Developer</p>
-          <p class="location">Rio de Janeiro - BR</p>
-          <p class="phone" ><a href="tel:(21) 9 9042-9656">(21) 9 9042-9656</a></p>
-          <p class="mail"><a href="mailto:jeanjfra@gmail.com">jeanjfra@gmail.com</a></p>
+          <p class="job"><span id="profile.job">Carregando...</span></p>
+          <p class="location"><span id="profile.location">Carregando...</span></p>
+          <p class="phone" ><a href="tel:(21) 9 9042-9656" id="profile.phone">Carregando...</a></p>
+          <p class="mail"><a href="mailto:jeanjfra@gmail.com" id="profile.mail">Carregando...</a></p>
         </div>
       </header>
       <section id="skills" class="acordeon">
@@ -133,5 +133,7 @@
     </main>
 
     <script src="assets/js/acordeon.js"></script>
+    <script src="assets/js/api.js"></script>
+    <script src="assets/js/main.js"></script>
   </body>
 </html>
