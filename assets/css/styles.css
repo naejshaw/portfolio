@@ -16,7 +16,7 @@
     height: 2rem;
     background-repeat: no-repeat;
     background-size: contain;
-    background-image: url('/assets/img/icons/dots.svg');
+    background-image: url('../img/icons/dots.svg');
 }
 
 .header .photo {
@@ -56,19 +56,19 @@
 }
 
 .information .job::before {
-    background-image: url('/assets/img/icons/job.svg');
+    background-image: url('../img/icons/job.svg');
 }
 
 .information .location::before {
-    background-image: url('/assets/img/icons/location.svg');
+    background-image: url('../img/icons/location.svg');
 }
 
 .information .email::before {
-    background-image: url('/assets/img/icons/mail.svg');
+    background-image: url('../img/icons/mail.svg');
 }
 
 .information .phone::before {
-    background-image: url('/assets/img/icons/phone.svg');
+    background-image: url('../img/icons/phone.svg');
 }
 
 /* Main Content */
@@ -119,7 +119,7 @@
     height: 1.5rem;
     background-repeat: no-repeat;
     background-size: contain;
-    background-image: url('/assets/img/icons/arrow-down.svg');
+    background-image: url('../img/icons/arrow-down.svg');
     transition: .25s;
 }
 
@@ -167,7 +167,7 @@
     height: 1rem;
     background-repeat: no-repeat;
     background-size: contain;
-    background-image: url('/assets/img/icons/check.svg');
+    background-image: url('../img/icons/check.svg');
     margin-right: .5rem;
 }
 
@@ -245,7 +245,7 @@
     height: 1rem;
     background-repeat: no-repeat;
     background-size: contain;
-    background-image: url('/assets/img/icons/iconmonstr-github-1\ 2.svg');
+    background-image: url('../img/icons/iconmonstr-github-1\ 2.svg');
     margin-right: .5rem;
 }
 
@@ -275,7 +275,7 @@
     height: 1rem;
     background-repeat: no-repeat;
     background-size: contain;
-    background-image: url('/assets/img/icons/calendar.svg');
+    background-image: url('../img/icons/calendar.svg');
     margin-right: .5rem;
 }
 
