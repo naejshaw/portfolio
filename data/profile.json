@@ -62,27 +62,27 @@
   "portfolio": [
     {
       "name": "Clone do site da HBO MAX",
-      "url": "https://github.com/naejshaw/hbomax",
+      "url": "https://naejshaw.github.io/hbomax/",
       "github": true
     },
     {
       "name": "Desafio Grid utilizando o layout do YouTube como referência",
-      "url": "https://github.com/naejshaw/youtube-clone-grid",
+      "url": "https://naejshaw.github.io/youtube-clone-grid/",
       "github": true
     },
     {
-      "name": "Trilha JS Developer - Pokedex",
-      "url": "https://github.com/naejshaw/js-developer-pokedex",
+      "name": "Exemplo Ecommerce",
+      "url": "https://naejshaw.github.io/Portfolio-7/",
       "github": true
     },
     {
       "name": "Repositório de criação do desafio de Simulador de Piano",
-      "url": "https://github.com/naejshaw/desafio-piano-virtual",
+      "url": "https://naejshaw.github.io/desafio-piano-virtual/",
       "github": true
     },
     {
       "name": "Landing Page",
-      "url": "https://github.com/naejshaw/Portfolio-1",
+      "url": "https://naejshaw.github.io/Portfolio-1/",
       "github": true
     }
   ],
