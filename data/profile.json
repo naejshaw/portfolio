@@ -3,12 +3,14 @@
   "photo": "https://avatars.githubusercontent.com/u/89807593?v=4",
   "job": "Front-end Developer",
   "location": "Rio de Janeiro - RJ",
-  "phone": [
-    {
-      "ddd":  "21",
-      "number":  "990429656",
-    }
-  ],
+  "phone": {
+    "myNumber": [
+      {
+        "ddd":  "21",
+        "number":  "990429656",
+      }
+    ]
+  },
   "email": "jeanjfra@gmail.com",
   "skills": {
     "hardSkills": [
