@@ -5,8 +5,8 @@
   "location": "Rio de Janeiro - RJ",
   "phone": [
     {
-      "ddd":  21,
-      "number":  990429656,
+      "ddd":  "21",
+      "number":  "990429656",
     }
   ]
   "email": "jeanjfra@gmail.com",
